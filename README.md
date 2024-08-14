@@ -43,4 +43,4 @@
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Галуст Петросян ([@s0cl0se](https://t.me/s0cl0se))
