@@ -20,13 +20,13 @@
 ![image](https://raw.githubusercontent.com/Cocordilos/Cypress/main/static/baseUrl.png)
 
 2. Применение хуков beforeEach и afterEach
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/hooks.png)
+![image](https://raw.githubusercontent.com/Cocordilos/Cypress/main/static/hooks.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
+![image](https://raw.githubusercontent.com/Cocordilos/Cypress/main/static/user_data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
+![image](https://raw.githubusercontent.com/Cocordilos/Cypress/main/static/locators.png)
 
 ## Локальный запуск через Cypress UI
 1. Скачать проект и открыть в терминале.
